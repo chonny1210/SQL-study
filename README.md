@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# SQL 수업노트
-
 안녕하세요. SQL 수업 내용을 정리하였습니다.
 
 <img src="https://github.com/chonny1210/chonny1210/blob/main/SQL.png" width="600" height="400">
